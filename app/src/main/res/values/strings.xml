@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fragments</string>
+
+    <!-- category titles -->
+    <string name="category_first">First</string>
+    <string name="category_second">Second</string>
+    <string name="category_third">Third</string>
+    <string name="category_fourth">Fourth</string>
+
+    <!-- fragment texts -->
+    <string name="fragment_text_first">First</string>
+    <string name="fragment_text_second">Second</string>
+    <string name="fragment_text_third">Third</string>
+    <string name="fragment_text_fourth">Fourth</string>
+</resources>
